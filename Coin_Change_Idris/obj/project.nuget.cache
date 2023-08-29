@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "X9G3Dkx0czBHYyAHfSRqkB+RZZKFvlU+DZVbAoa98F9xSPLoP7MSR/IA8BQtkGGXyee2CybJpSGECmU+fyVjkQ==",
+  "success": true,
+  "projectFilePath": "/Users/idrisulu/Desktop/idris/University/Data Structures&Algorithms/Coin_Change_Idris_2/Coin_Change_Idris/Coin_Change_Idris.csproj",
+  "expectedPackageFiles": [
+    "/Users/idrisulu/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/idrisulu/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/idrisulu/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
